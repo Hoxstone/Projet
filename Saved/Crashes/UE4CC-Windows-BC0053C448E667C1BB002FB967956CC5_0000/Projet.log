@@ -1,0 +1,1013 @@
+﻿Log file open, 04/12/18 13:23:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Projet
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-135758081) SRandInit(-135758080).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.202360
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.12-11.23.38:523][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.12-11.23.38:523][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.12-11.23.38:578][  0]LogInit: Computer: SHADOW-3QBNMBF4
+[2018.04.12-11.23.38:578][  0]LogInit: User: Arthur
+[2018.04.12-11.23.38:578][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.12-11.23.38:578][  0]LogInit: High frequency timer resolution =2.048409 MHz
+[2018.04.12-11.23.38:578][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2018.04.12-11.23.38:578][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.12-11.23.38:578][  0]LogMemory: Process Physical Memory: 278.61 MB used, 278.61 MB peak
+[2018.04.12-11.23.38:578][  0]LogMemory: Process Virtual Memory: 286.30 MB used, 286.30 MB peak
+[2018.04.12-11.23.38:578][  0]LogMemory: Physical Memory: 4652.96 MB used,  7633.74 MB free, 12286.70 MB total
+[2018.04.12-11.23.38:578][  0]LogMemory: Virtual Memory: 719.09 MB used,  7633.74 MB free, 134217728.00 MB total
+[2018.04.12-11.23.39:001][  0]LogInit: Using OS detected language (fr-FR).
+[2018.04.12-11.23.39:001][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.04.12-11.23.39:064][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.04.12-11.23.39:065][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.04.12-11.23.42:991][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.12-11.23.43:050][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.04.12-11.23.43:050][  0]LogD3D11RHI:       8088/0/6143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.12-11.23.43:054][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.12-11.23.43:054][  0]LogD3D11RHI:       0/0/6143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.12-11.23.43:054][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.12-11.23.43:063][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.12-11.23.43:063][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.12-11.23.43:063][  0]LogWindows: EnumDisplayDevices:
+[2018.04.12-11.23.43:063][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.04.12-11.23.43:063][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.12-11.23.43:063][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.12-11.23.43:063][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.12-11.23.43:063][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.12-11.23.43:063][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.04.12-11.23.43:063][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.12-11.23.43:063][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.12-11.23.43:063][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.04.12-11.23.43:109][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.12-11.23.43:198][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.12-11.23.43:246][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Intermediate/Shaders/WorkingDirectory/10080/).
+[2018.04.12-11.23.43:246][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Arthur/AppData/Local/Temp/UnrealShaderWorkingDir/9731465A4E5CC8EB190787A2AE6161E4/'.
+[2018.04.12-11.23.43:246][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.12-11.23.46:142][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.12-11.23.46:219][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.12-11.23.46:297][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.12-11.23.46:372][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.12-11.23.46:454][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.12-11.23.46:532][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.12-11.23.46:611][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.12-11.23.46:688][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.12-11.23.46:756][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.12-11.23.46:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.12-11.23.46:912][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.12-11.23.46:986][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.12-11.23.47:064][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.12-11.23.47:136][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.12-11.23.47:211][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.12-11.23.47:362][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.12-11.23.47:362][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.12-11.23.47:423][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.12-11.23.47:563][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.12-11.23.47:606][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.12-11.23.47:682][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.12-11.23.47:758][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.12-11.23.47:835][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.12-11.23.47:920][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.12-11.23.47:920][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.12-11.23.48:765][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.12-11.23.51:608][  0]LogDerivedDataCache: Loaded boot cache 2.84s 93MB C:/Users/Arthur/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.12-11.23.51:609][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Arthur/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.04.12-11.23.51:609][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.12-11.23.51:609][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.12-11.23.51:609][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.12-11.23.51:609][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.12-11.23.51:694][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.12-11.23.51:707][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Arthur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.12-11.23.51:723][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.12-11.23.51:724][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.12-11.23.51:741][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.12-11.23.51:741][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.12-11.23.54:251][  0]LogAssetRegistry: FAssetRegistry took 0.0285 seconds to start up
+[2018.04.12-11.23.54:457][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.12-11.23.55:551][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.12-11.23.55:621][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.12-11.23.55:621][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.12-11.23.55:621][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.12-11.23.55:621][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.12-11.23.55:621][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.12-11.23.55:623][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.04.12-11.23.56:745][  0]LogNetVersion: Projet , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1056921256)
+[2018.04.12-11.23.57:329][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.048131 seconds
+[2018.04.12-11.23.57:338][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.04.12-11.23.57:338][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.04.12-11.23.57:338][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.12-11.23.57:446][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.12-11.24.09:434][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.12-11.24.09:495][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.12-11.24.10:786][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.12-11.24.11:654][  0]SourceControl: Source control is disabled
+[2018.04.12-11.24.11:654][  0]SourceControl: Source control is disabled
+[2018.04.12-11.24.11:734][  0]SourceControl: Source control is disabled
+[2018.04.12-11.24.11:819][  0]SourceControl: Source control is disabled
+[2018.04.12-11.24.12:850][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.12-11.24.13:272][  0]LogOcInput: OculusInput pre-init called
+[2018.04.12-11.24.13:727][  0]LogEngine: Initializing Engine...
+[2018.04.12-11.24.13:730][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.12-11.24.14:373][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.12-11.24.14:373][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.12-11.24.14:589][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.12-11.24.14:607][  0]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-11.24.14:625][  0]LogInit: FAudioDevice initialized.
+[2018.04.12-11.24.14:714][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/Arthur/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.12-11.24.14:740][  0]LogInit: Texture streaming: Enabled
+[2018.04.12-11.24.14:932][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.12-11.24.14:932][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={5823272B-46F3-9F9A-477B-E6BF6DFC01DE}
+[2018.04.12-11.24.15:340][  0]LogInit: Transaction tracking system initialized
+[2018.04.12-11.24.15:867][  0]BlueprintLog: New page: Editor Load
+[2018.04.12-11.24.17:465][  0]LocalizationService: Localization service is disabled
+[2018.04.12-11.24.18:721][  0]LogConsoleResponse: Display: 
+[2018.04.12-11.24.20:114][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.12-11.24.20:114][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.12-11.24.20:114][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.12-11.24.21:076][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Arthur/Documents/Unreal Projects/Projet/Content/' took 0.02s
+[2018.04.12-11.24.22:201][  0]SourceControl: Source control is disabled
+[2018.04.12-11.24.22:202][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.12-11.24.22:215][  0]LightingResults: New page: Lighting Build
+[2018.04.12-11.24.22:282][  0]MapCheck: New page: Map Check
+[2018.04.12-11.24.22:282][  0]LightingResults: New page: Lighting Build
+[2018.04.12-11.24.24:333][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.12-11.24.24:348][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.12-11.24.24:366][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.12-11.24.24:448][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.329ms to complete.
+[2018.04.12-11.24.24:448][  0]LogFileHelpers: Loading map 'Template_Default' took 2.246
+[2018.04.12-11.24.24:668][  0]LogCollectionManager: Loaded 0 collections in 0.004241 seconds
+[2018.04.12-11.24.24:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Arthur/Documents/Unreal Projects/Projet/Saved/Collections/' took 0.01s
+[2018.04.12-11.24.24:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Arthur/Documents/Unreal Projects/Projet/Content/Developers/Arthur/Collections/' took 0.01s
+[2018.04.12-11.24.24:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Arthur/Documents/Unreal Projects/Projet/Content/Collections/' took 0.01s
+[2018.04.12-11.24.24:777][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.12-11.24.24:789][  0]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 2386 classes and 500 folders.
+[2018.04.12-11.24.24:899][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.04.12-11.24.25:477][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.04.12-11.24.25:549][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.04.12-11.24.27:472][  0]LogSlate: Took 0.006581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.12-11.24.27:482][  0]LogSlate: Took 0.007113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.12-11.24.27:500][  0]LogSlate: Took 0.009616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.12-11.24.27:773][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 9 NumSamples 1 (Frame:1).
+[2018.04.12-11.24.27:958][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Projet
+[2018.04.12-11.24.27:958][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.12-11.24.27:958][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2018.04.12-11.24.27:958][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.12-11.24.27:958][  0]LogTemp: BranchPath = SHADOW-3QBNMBF4/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = SHADOW-3QBNMBF4/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2018.04.12-11.24.27:958][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Arthur\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.12-11.24.28:039][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.04.12-11.24.28:040][  0]LogLoad: (Engine Initialization) Total time: 53.71 seconds
+[2018.04.12-11.24.28:040][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.12-11.24.28:040][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.12-11.24.28:406][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.12-11.24.28:508][  0]LogSlate: Took 0.007712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.12-11.24.28:725][  1]LogAssetRegistry: Asset discovery search completed in 34.4963 seconds
+[2018.04.12-11.24.28:728][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.12-11.24.28:728][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2018.04.12-11.25.33:095][878]LogLinker: Warning: Can't find file '/Game/Personnages/GameMode_Bas_Personnage01'
+[2018.04.12-11.25.33:096][878]LogLinker: Warning: Can't find file '/Game/Personnages/GameMode_Bas_Personnage01'
+[2018.04.12-11.25.33:096][878]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Personnages/GameMode_Bas_Personnage01.GameMode_Bas_Personnage01_C'
+[2018.04.12-11.25.34:149][  1]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.12-11.25.41:555][868]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.12-11.25.44:124][868]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.12-11.25.45:126][868]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-11.25.45:154][868]Cmd: MAP LOAD FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/Monde_De_Jeu/Monde01/Monde01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.12-11.25.45:154][868]LightingResults: New page: Lighting Build
+[2018.04.12-11.25.45:155][868]LoadErrors: New page: Loading map: Monde01.umap
+[2018.04.12-11.25.45:156][868]MapCheck: New page: Map Check
+[2018.04.12-11.25.45:156][868]LightingResults: New page: Lighting Build
+[2018.04.12-11.25.45:182][868]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.12-11.25.45:257][868]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.12-11.25.45:354][868]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.769ms to complete.
+[2018.04.12-11.25.45:355][868]LogFileHelpers: Loading map 'Monde01' took 0.202
+[2018.04.12-11.25.46:920][ 41]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-11.25.47:034][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-11.25.47:034][ 41]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 3:25:47 PM)
+[2018.04.12-11.25.47:034][ 41]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-11.25.47:040][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005419s)
+[2018.04.12-11.25.47:041][ 41]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-11.25.47:041][ 41]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2018.04.12-11.25.47:041][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006767s)
+[2018.04.12-11.25.47:065][ 41]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-11.25.47:075][ 41]LogInit: FAudioDevice initialized.
+[2018.04.12-11.25.47:133][ 41]LogLoad: Game class is 'GameModeBase'
+[2018.04.12-11.25.47:137][ 41]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-13.25.47
+[2018.04.12-11.25.47:138][ 41]LogWorld: Bringing up level for play took: 0.002824
+[2018.04.12-11.25.47:207][ 41]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.04.12-11.25.47:213][ 41]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.746
+[2018.04.12-11.25.47:238][ 41]LogRenderer: Reallocating scene render targets to support 1292x756 Format 9 NumSamples 1 (Frame:1).
+[2018.04.12-11.25.55:550][  3]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.12-11.25.57:367][211]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-11.25.57:396][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-11.25.57:396][211]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 3:25:57 PM)
+[2018.04.12-11.25.57:396][211]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-11.25.57:402][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005075s)
+[2018.04.12-11.25.57:402][211]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-11.25.57:403][211]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2018.04.12-11.25.57:403][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006455s)
+[2018.04.12-11.25.57:426][211]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-11.25.57:435][211]LogInit: FAudioDevice initialized.
+[2018.04.12-11.25.57:475][211]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-11.25.57:478][211]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-13.25.57
+[2018.04.12-11.25.57:479][211]LogWorld: Bringing up level for play took: 0.002259
+[2018.04.12-11.25.57:485][211]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.474
+[2018.04.12-11.54.25:816][814]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-11.54.25:849][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-11.54.25:849][814]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 3:54:25 PM)
+[2018.04.12-11.54.25:849][814]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-11.54.25:855][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005820s)
+[2018.04.12-11.54.25:856][814]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-11.54.25:856][814]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2018.04.12-11.54.25:857][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007499s)
+[2018.04.12-11.54.25:884][814]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-11.54.25:894][814]LogInit: FAudioDevice initialized.
+[2018.04.12-11.54.25:942][814]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-11.54.25:945][814]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-13.54.25
+[2018.04.12-11.54.25:946][814]LogWorld: Bringing up level for play took: 0.002582
+[2018.04.12-11.54.25:953][814]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.006
+[2018.04.12-11.56.26:490][718]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Arthur\Desktop\3D model\sons\Bruitage-coup-poing-_Punch_.wav)
+[2018.04.12-11.56.26:500][718]LogAudioDerivedData: Display: Building compressed audio format OGG wave Bruitage-coup-poing-_Punch_...
+[2018.04.12-11.56.26:769][718]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/sons/Bruitage-coup-poing-_Punch_.Bruitage-coup-poing-_Punch_.
+[2018.04.12-11.56.49:411][187]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.04.12-11.56.49:935][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.12-11.56.50:014][187]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.04.12-11.56.50:568][187]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0014 seconds. Added 1 classes and 0 folders.
+[2018.04.12-11.56.50:580][187]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.12-11.57.16:259][840]LogSavePackage: Save=24.08ms
+[2018.04.12-11.57.16:259][840]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Punching_left63CBBEC14731864A62D42DA3E77FE6A4.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_left.uasset'
+[2018.04.12-11.57.16:264][840]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_left.uasset
+[2018.04.12-11.57.37:391][ 63]LogSavePackage: Save=23.62ms
+[2018.04.12-11.57.37:392][ 63]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Punching_rightD9D36FBB4E4579D2A0E9EAAEA6F43D5D.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_right.uasset'
+[2018.04.12-11.57.37:396][ 63]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_right.uasset
+[2018.04.12-11.57.39:103][159]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-11.57.39:134][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-11.57.39:134][159]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 3:57:39 PM)
+[2018.04.12-11.57.39:134][159]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-11.57.39:139][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004983s)
+[2018.04.12-11.57.39:140][159]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-11.57.39:141][159]LogPlayLevel: PIE: World Init took: (0.001567s)
+[2018.04.12-11.57.39:141][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006820s)
+[2018.04.12-11.57.39:167][159]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-11.57.39:178][159]LogInit: FAudioDevice initialized.
+[2018.04.12-11.57.39:227][159]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-11.57.39:229][159]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-13.57.39
+[2018.04.12-11.57.39:230][159]LogWorld: Bringing up level for play took: 0.002222
+[2018.04.12-11.57.39:237][159]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.721
+[2018.04.12-11.58.04:345][702]LogSavePackage: Save=12.73ms
+[2018.04.12-11.58.04:346][702]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Punching_rightCD09BF24402ADEB361A30A8390A97254.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_right.uasset'
+[2018.04.12-11.58.04:351][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_right.uasset
+[2018.04.12-11.58.05:993][800]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-11.58.06:023][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-11.58.06:023][800]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 3:58:06 PM)
+[2018.04.12-11.58.06:023][800]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-11.58.06:029][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004947s)
+[2018.04.12-11.58.06:029][800]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-11.58.06:030][800]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2018.04.12-11.58.06:030][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006338s)
+[2018.04.12-11.58.06:053][800]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-11.58.06:063][800]LogInit: FAudioDevice initialized.
+[2018.04.12-11.58.06:107][800]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-11.58.06:110][800]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-13.58.06
+[2018.04.12-11.58.06:111][800]LogWorld: Bringing up level for play took: 0.002788
+[2018.04.12-11.58.06:119][800]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 0.16
+[2018.04.12-11.58.15:777][378]LogSavePackage: Save=11.27ms
+[2018.04.12-11.58.15:777][378]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Punching_right24FC1AEC4298CA1E2A95AF93ED125385.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_right.uasset'
+[2018.04.12-11.58.15:782][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_right.uasset
+[2018.04.12-11.58.17:162][456]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-11.58.17:193][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-11.58.17:194][456]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 3:58:17 PM)
+[2018.04.12-11.58.17:194][456]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-11.58.17:199][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005131s)
+[2018.04.12-11.58.17:200][456]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-11.58.17:200][456]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2018.04.12-11.58.17:200][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006461s)
+[2018.04.12-11.58.17:226][456]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-11.58.17:236][456]LogInit: FAudioDevice initialized.
+[2018.04.12-11.58.17:286][456]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-11.58.17:288][456]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-13.58.17
+[2018.04.12-11.58.17:289][456]LogWorld: Bringing up level for play took: 0.002210
+[2018.04.12-11.58.17:297][456]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.662
+[2018.04.12-11.58.35:203][539]LogSavePackage: Save=10.92ms
+[2018.04.12-11.58.35:203][539]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Punching_left25CC38B24C4C7BFF46BD70B91AFB47CE.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_left.uasset'
+[2018.04.12-11.58.35:209][539]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_left.uasset
+[2018.04.12-11.58.36:389][604]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-11.58.36:423][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-11.58.36:423][604]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 3:58:36 PM)
+[2018.04.12-11.58.36:423][604]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-11.58.36:428][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005123s)
+[2018.04.12-11.58.36:429][604]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-11.58.36:429][604]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2018.04.12-11.58.36:430][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006555s)
+[2018.04.12-11.58.36:456][604]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-11.58.36:466][604]LogInit: FAudioDevice initialized.
+[2018.04.12-11.58.36:515][604]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-11.58.36:518][604]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-13.58.36
+[2018.04.12-11.58.36:519][604]LogWorld: Bringing up level for play took: 0.002211
+[2018.04.12-11.58.36:527][604]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 0.569
+[2018.04.12-11.59.01:613][ 62]LogSavePackage: Save=10.58ms
+[2018.04.12-11.59.01:613][ 62]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Punching_left5DF7D51E4C36181F440934BDAAC6969D.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_left.uasset'
+[2018.04.12-11.59.01:618][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_left.uasset
+[2018.04.12-11.59.07:750][427]LogSavePackage: Save=10.57ms
+[2018.04.12-11.59.07:750][427]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Punching_rightEB49FC944C6E9F8A1CF3DCBB85D27FEE.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_right.uasset'
+[2018.04.12-11.59.07:755][427]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/combat/Punching_right.uasset
+[2018.04.12-11.59.20:398][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sons/Bruitage-coup-poing-_Punch_" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/sons/Bruitage-coup-poing-_Punch_.uasset" SILENT=true
+[2018.04.12-11.59.20:413][657]LogSavePackage: Save=10.88ms
+[2018.04.12-11.59.20:413][657]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Bruitage-coup-poing-_Punch_857F6E784F1D60995E87DEB52E40ECEB.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/sons/Bruitage-coup-poing-_Punch_.uasset'
+[2018.04.12-11.59.20:416][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/sons/Bruitage-coup-poing-_Punch_.uasset
+[2018.04.12-11.59.21:147][729]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-11.59.21:178][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-11.59.21:178][729]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 3:59:21 PM)
+[2018.04.12-11.59.21:178][729]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-11.59.21:185][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007076s)
+[2018.04.12-11.59.21:187][729]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-11.59.21:187][729]LogPlayLevel: PIE: World Init took: (0.001584s)
+[2018.04.12-11.59.21:187][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.009014s)
+[2018.04.12-11.59.21:213][729]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-11.59.21:225][729]LogInit: FAudioDevice initialized.
+[2018.04.12-11.59.21:267][729]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-11.59.21:270][729]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-13.59.21
+[2018.04.12-11.59.21:271][729]LogWorld: Bringing up level for play took: 0.002182
+[2018.04.12-11.59.21:277][729]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.681
+[2018.04.12-12.00.55:409][214]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.00.55:439][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.00.55:439][214]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:00:55 PM)
+[2018.04.12-12.00.55:439][214]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.00.55:445][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005366s)
+[2018.04.12-12.00.55:446][214]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.00.55:446][214]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2018.04.12-12.00.55:446][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006831s)
+[2018.04.12-12.00.55:471][214]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.00.55:482][214]LogInit: FAudioDevice initialized.
+[2018.04.12-12.00.55:528][214]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.00.55:531][214]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.00.55
+[2018.04.12-12.00.55:531][214]LogWorld: Bringing up level for play took: 0.002332
+[2018.04.12-12.00.55:538][214]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.421
+[2018.04.12-12.09.00:882][145]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.09.00:913][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.09.00:913][145]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:09:00 PM)
+[2018.04.12-12.09.00:913][145]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.09.00:919][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005738s)
+[2018.04.12-12.09.00:920][145]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.09.00:920][145]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2018.04.12-12.09.00:920][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007340s)
+[2018.04.12-12.09.00:946][145]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.09.00:957][145]LogInit: FAudioDevice initialized.
+[2018.04.12-12.09.01:001][145]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.09.01:004][145]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.09.01
+[2018.04.12-12.09.01:005][145]LogWorld: Bringing up level for play took: 0.002542
+[2018.04.12-12.09.01:012][145]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 1.053
+[2018.04.12-12.09.15:920][711]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 113 classes and 0 folders.
+[2018.04.12-12.09.17:134][711]LogSlate: Took 0.037890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.12-12.09.17:537][712]LogSlate: Took 0.007572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.12-12.09.37:355][786]BlueprintLog: New page: Compile Personnage01
+[2018.04.12-12.09.41:827][996]BlueprintLog: New page: Compile Personnage01
+[2018.04.12-12.09.42:850][ 18]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.09.42:885][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.09.42:886][ 18]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:09:42 PM)
+[2018.04.12-12.09.42:886][ 18]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.09.42:891][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004879s)
+[2018.04.12-12.09.42:892][ 18]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.09.42:892][ 18]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2018.04.12-12.09.42:892][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006583s)
+[2018.04.12-12.09.42:925][ 18]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.09.42:935][ 18]LogInit: FAudioDevice initialized.
+[2018.04.12-12.09.42:989][ 18]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.09.42:991][ 18]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.09.42
+[2018.04.12-12.09.42:992][ 18]LogWorld: Bringing up level for play took: 0.002316
+[2018.04.12-12.09.43:003][ 18]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 1.044
+[2018.04.12-12.10.06:478][205]BlueprintLog: New page: Compile Personnage01
+[2018.04.12-12.10.07:314][216]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.10.07:347][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.10.07:347][216]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:10:07 PM)
+[2018.04.12-12.10.07:348][216]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.10.07:353][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004909s)
+[2018.04.12-12.10.07:353][216]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.10.07:354][216]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2018.04.12-12.10.07:354][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006281s)
+[2018.04.12-12.10.07:384][216]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.10.07:394][216]LogInit: FAudioDevice initialized.
+[2018.04.12-12.10.07:442][216]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.10.07:445][216]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.10.07
+[2018.04.12-12.10.07:446][216]LogWorld: Bringing up level for play took: 0.002434
+[2018.04.12-12.10.07:458][216]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.501
+[2018.04.12-12.10.59:601][ 42]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0011 seconds. Added 1 classes and 0 folders.
+[2018.04.12-12.10.59:702][ 42]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.00:037][ 42]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.00:055][ 42]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.02:682][209]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.04.12-12.11.02:682][209]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.12-12.11.02:682][209]MaterialEditorStats: Texture samplers: 1/16
+[2018.04.12-12.11.04:437][350]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.04:476][350]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.05:967][454]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.05:990][454]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.06:874][517]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.04.12-12.11.06:874][517]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.04.12-12.11.06:874][517]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.11.15:350][239]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.15:527][240]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.04.12-12.11.16:194][284]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.04.12-12.11.16:194][284]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.04.12-12.11.16:194][284]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.11.27:109][797]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.27:943][856]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.04.12-12.11.27:943][856]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.04.12-12.11.27:943][856]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.11.34:439][232]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.34:452][232]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.35:257][287]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.04.12-12.11.35:257][287]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.04.12-12.11.35:257][287]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.11.40:463][519]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.41:749][565]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.04.12-12.11.41:749][565]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.04.12-12.11.41:749][565]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.11.45:980][726]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.46:859][785]MaterialEditorStats: Base pass shader without light map: 39 instructions
+[2018.04.12-12.11.46:859][785]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.12-12.11.46:859][785]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.11.46:859][785]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.12-12.11.50:076][ 57]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.50:937][114]MaterialEditorStats: Base pass shader without light map: 39 instructions
+[2018.04.12-12.11.50:937][114]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.12-12.11.50:937][114]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.11.50:937][114]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.12-12.11.57:120][445]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.58:375][537]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.11.59:338][604]MaterialEditorStats: Base pass shader without light map: 39 instructions
+[2018.04.12-12.11.59:338][604]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.12-12.11.59:338][604]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.11.59:338][604]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.12-12.12.00:434][690]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.12.01:438][761]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2018.04.12-12.12.01:438][761]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.12-12.12.01:438][761]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.12.01:438][761]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.12-12.12.04:648][995]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2018.04.12-12.12.36:714][122]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.12.37:884][206]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2018.04.12-12.12.37:884][206]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.12-12.12.37:884][206]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.12.37:884][206]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.12-12.12.40:460][396]LogMaterialEditor: Applying material pied
+[2018.04.12-12.12.41:346][396]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.12.41:390][396]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.12.41:413][396]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.12.41:460][396]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy pied, compiling. 
+[2018.04.12-12.12.41:923][396]TextureStreamingBuild: Display: Compiling optional shaders took 0.470 seconds.
+[2018.04.12-12.12.43:825][510]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2018.04.12-12.12.43:825][510]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.12-12.12.43:825][510]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.12.43:825][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.12-12.12.57:163][581]LogSavePackage: Save=61.41ms
+[2018.04.12-12.12.57:163][581]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Monde01_Auto1B0083C7A4AF2B7BB3761979D34C6D3CD.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Autosaves/Game/Monde_De_Jeu/Monde01/Monde01_Auto1.umap'
+[2018.04.12-12.12.57:167][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Autosaves/Game/Monde_De_Jeu/Monde01/Monde01_Auto1.umap
+[2018.04.12-12.12.57:173][581]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Monde_De_Jeu/Monde01/Monde01' took 0.118
+[2018.04.12-12.12.57:173][581]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.118
+[2018.04.12-12.12.57:198][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/YBot/controlleur/Personnage01] ([1] browsable assets)...
+[2018.04.12-12.12.57:214][581]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/YBot/controlleur/Personnage01.Personnage01]
+[2018.04.12-12.12.57:214][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/YBot/controlleur/Personnage01]
+[2018.04.12-12.12.57:384][581]LogSavePackage: Save=150.50ms
+[2018.04.12-12.12.57:384][581]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Personnage01_Auto1F0B3B5154BB80946FD3D3A93C1237A4E.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Autosaves/Game/YBot/controlleur/Personnage01_Auto1.uasset'
+[2018.04.12-12.12.57:387][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Autosaves/Game/YBot/controlleur/Personnage01_Auto1.uasset
+[2018.04.12-12.12.57:388][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/particules/materiaux/pied] ([1] browsable assets)...
+[2018.04.12-12.12.57:403][581]OBJ SavePackage:     Rendered thumbnail for [Material /Game/particules/materiaux/pied.pied]
+[2018.04.12-12.12.57:403][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/particules/materiaux/pied]
+[2018.04.12-12.12.57:430][581]LogSavePackage: Save=23.78ms
+[2018.04.12-12.12.57:430][581]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/pied_Auto1C99652DD4ACE9F1E09BF5280D33A3426.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Autosaves/Game/particules/materiaux/pied_Auto1.uasset'
+[2018.04.12-12.12.57:432][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Autosaves/Game/particules/materiaux/pied_Auto1.uasset
+[2018.04.12-12.12.57:433][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/particules/NewParticleSystem] ([1] browsable assets)...
+[2018.04.12-12.12.57:439][581]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/particules/NewParticleSystem.NewParticleSystem]
+[2018.04.12-12.12.57:439][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/particules/NewParticleSystem]
+[2018.04.12-12.12.57:452][581]LogSavePackage: Save=10.39ms
+[2018.04.12-12.12.57:452][581]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/NewParticleSystem_Auto1656535C14924D97E7170E6B8EE0A72CA.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Autosaves/Game/particules/NewParticleSystem_Auto1.uasset'
+[2018.04.12-12.12.57:454][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Autosaves/Game/particules/NewParticleSystem_Auto1.uasset
+[2018.04.12-12.12.57:455][581]LogFileHelpers: Auto-saving content packages took 0.281
+[2018.04.12-12.13.08:202][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particules/Particule_Pïed" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/particules/Particule_Pïed.uasset" SILENT=true
+[2018.04.12-12.13.08:217][499]LogSavePackage: Save=11.91ms
+[2018.04.12-12.13.08:217][499]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Particule_PïedF85FAE8C4C674E26479352B38BF95B22.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/particules/Particule_Pïed.uasset'
+[2018.04.12-12.13.08:221][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/particules/Particule_Pïed.uasset
+[2018.04.12-12.13.09:808][584]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0012 seconds. Added 2 classes and 2 folders.
+[2018.04.12-12.13.57:082][424]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.12-12.14.00:332][685]LogEditorTransaction: Undo Create New Emitter
+[2018.04.12-12.14.00:506][685]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.12-12.14.00:521][685]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.14.01:681][767]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2018.04.12-12.14.01:681][767]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.12-12.14.01:681][767]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.14.01:681][767]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.12-12.14.02:382][824]LogEditorTransaction: Redo Create New Emitter
+[2018.04.12-12.14.02:552][824]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.12-12.14.02:556][824]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.14.03:403][886]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2018.04.12-12.14.03:403][886]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.12-12.14.03:403][886]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.14.03:403][886]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.12-12.14.04:648][989]LogEditorTransaction: Undo Create New Emitter
+[2018.04.12-12.14.04:813][989]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.12-12.14.04:818][989]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.14.05:677][ 50]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2018.04.12-12.14.05:677][ 50]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.12-12.14.05:677][ 50]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.14.05:677][ 50]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.12-12.14.06:072][ 83]LogEditorTransaction: Redo Create New Emitter
+[2018.04.12-12.14.06:243][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.12-12.14.06:248][ 83]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.14.07:112][145]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2018.04.12-12.14.07:112][145]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.12-12.14.07:112][145]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.14.07:112][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.12-12.15.06:361][913]LogEditorTransaction: Undo Edit Emitter Editor Color
+[2018.04.12-12.15.06:525][913]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.12-12.15.06:530][913]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.15.07:663][993]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2018.04.12-12.15.07:663][993]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.12-12.15.07:663][993]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.15.07:663][993]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.12-12.15.42:312][967]LogMaterial: Warning: Material /Game/particules/materiaux/pied.pied needed to have new flag set bUsedWithParticleSprites !
+[2018.04.12-12.15.42:312][967]LogMaterial: Warning: Material /Engine/Transient.pied needed to have new flag set bUsedWithParticleSprites !
+[2018.04.12-12.15.42:333][967]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.15.42:346][967]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.15.43:516][ 58]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2018.04.12-12.15.43:516][ 58]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.12-12.15.43:516][ 58]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.12-12.15.43:516][ 58]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.12-12.15.49:660][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particules/Particule_Pïed" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/particules/Particule_Pïed.uasset" SILENT=true
+[2018.04.12-12.15.49:744][546]LogSavePackage: Save=17.34ms
+[2018.04.12-12.15.49:744][546]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Particule_Pïed97DC5C594BD15BB650F45D990BE8D56C.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/particules/Particule_Pïed.uasset'
+[2018.04.12-12.15.49:748][546]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/particules/Particule_Pïed.uasset
+[2018.04.12-12.16.21:869][623]BlueprintLog: New page: Compile Personnage01
+[2018.04.12-12.16.24:662][759]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.16.24:696][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.16.24:696][759]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:16:24 PM)
+[2018.04.12-12.16.24:697][759]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.16.24:702][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005955s)
+[2018.04.12-12.16.24:703][759]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.16.24:703][759]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2018.04.12-12.16.24:704][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007576s)
+[2018.04.12-12.16.24:737][759]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.16.24:747][759]LogInit: FAudioDevice initialized.
+[2018.04.12-12.16.24:797][759]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.16.24:800][759]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.16.24
+[2018.04.12-12.16.24:801][759]LogWorld: Bringing up level for play took: 0.002482
+[2018.04.12-12.16.24:810][759]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 0.851
+[2018.04.12-12.16.41:461][827]BlueprintLog: New page: Compile Personnage01
+[2018.04.12-12.16.58:756][870]BlueprintLog: New page: Compile Personnage01
+[2018.04.12-12.16.59:492][883]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.16.59:525][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.16.59:525][883]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:16:59 PM)
+[2018.04.12-12.16.59:525][883]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.16.59:531][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005390s)
+[2018.04.12-12.16.59:532][883]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.16.59:532][883]LogPlayLevel: PIE: World Init took: (0.001475s)
+[2018.04.12-12.16.59:532][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007198s)
+[2018.04.12-12.16.59:566][883]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.16.59:577][883]LogInit: FAudioDevice initialized.
+[2018.04.12-12.16.59:626][883]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.16.59:629][883]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.16.59
+[2018.04.12-12.16.59:630][883]LogWorld: Bringing up level for play took: 0.002488
+[2018.04.12-12.16.59:643][883]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.316
+[2018.04.12-12.19.15:566][395]BlueprintLog: New page: Compile Personnage01
+[2018.04.12-12.19.16:562][423]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.19.16:598][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.19.16:598][423]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:19:16 PM)
+[2018.04.12-12.19.16:598][423]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.19.16:603][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005154s)
+[2018.04.12-12.19.16:604][423]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.19.16:604][423]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2018.04.12-12.19.16:605][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006652s)
+[2018.04.12-12.19.16:638][423]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.19.16:649][423]LogInit: FAudioDevice initialized.
+[2018.04.12-12.19.16:705][423]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.19.16:708][423]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.19.16
+[2018.04.12-12.19.16:709][423]LogWorld: Bringing up level for play took: 0.002416
+[2018.04.12-12.19.16:720][423]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 0.761
+[2018.04.12-12.19.28:529][139]BlueprintLog: New page: Compile Personnage01
+[2018.04.12-12.20.11:925][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YBot/animation/Running" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset" SILENT=true
+[2018.04.12-12.20.11:972][900]LogSavePackage: Save=26.09ms
+[2018.04.12-12.20.11:972][900]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/RunningD14CC27846B5DCEF29C66CB254135A16.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset'
+[2018.04.12-12.20.11:977][900]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset
+[2018.04.12-12.20.14:939][ 67]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.20.14:974][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.20.14:975][ 67]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:20:14 PM)
+[2018.04.12-12.20.14:975][ 67]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.20.14:980][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005281s)
+[2018.04.12-12.20.14:982][ 67]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.20.14:982][ 67]LogPlayLevel: PIE: World Init took: (0.001536s)
+[2018.04.12-12.20.14:982][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007172s)
+[2018.04.12-12.20.15:018][ 67]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.20.15:029][ 67]LogInit: FAudioDevice initialized.
+[2018.04.12-12.20.15:083][ 67]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.20.15:086][ 67]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.20.15
+[2018.04.12-12.20.15:087][ 67]LogWorld: Bringing up level for play took: 0.002503
+[2018.04.12-12.20.15:100][ 67]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.859
+[2018.04.12-12.21.00:759][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YBot/animation/Running" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset" SILENT=true
+[2018.04.12-12.21.00:781][695]LogSavePackage: Save=12.11ms
+[2018.04.12-12.21.00:781][695]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Running96B114AD4074CC9EFA01EBB22946E7B8.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset'
+[2018.04.12-12.21.00:785][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset
+[2018.04.12-12.21.04:044][901]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.21.04:082][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.21.04:082][901]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:21:04 PM)
+[2018.04.12-12.21.04:082][901]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.21.04:088][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005284s)
+[2018.04.12-12.21.04:089][901]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.21.04:089][901]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2018.04.12-12.21.04:089][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006815s)
+[2018.04.12-12.21.04:124][901]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.21.04:134][901]LogInit: FAudioDevice initialized.
+[2018.04.12-12.21.04:188][901]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.21.04:191][901]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.21.04
+[2018.04.12-12.21.04:192][901]LogWorld: Bringing up level for play took: 0.002483
+[2018.04.12-12.21.04:205][901]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 0.246
+[2018.04.12-12.22.19:490][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YBot/animation/Running" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset" SILENT=true
+[2018.04.12-12.22.19:513][234]LogSavePackage: Save=12.37ms
+[2018.04.12-12.22.19:513][234]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Running650C67BE4F1C240392F8778634D46C58.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset'
+[2018.04.12-12.22.19:518][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset
+[2018.04.12-12.22.21:338][341]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.22.21:376][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.22.21:376][341]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:22:21 PM)
+[2018.04.12-12.22.21:376][341]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.22.21:382][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005572s)
+[2018.04.12-12.22.21:383][341]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.22.21:383][341]LogPlayLevel: PIE: World Init took: (0.001649s)
+[2018.04.12-12.22.21:383][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007536s)
+[2018.04.12-12.22.21:419][341]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.22.21:429][341]LogInit: FAudioDevice initialized.
+[2018.04.12-12.22.21:481][341]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.22.21:485][341]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.22.21
+[2018.04.12-12.22.21:485][341]LogWorld: Bringing up level for play took: 0.002529
+[2018.04.12-12.22.21:498][341]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.461
+[2018.04.12-12.22.45:353][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YBot/animation/Running" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset" SILENT=true
+[2018.04.12-12.22.45:375][660]LogSavePackage: Save=12.30ms
+[2018.04.12-12.22.45:375][660]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/RunningBFCB532B48B7EF1FDC46C49D1ED8CF39.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset'
+[2018.04.12-12.22.45:380][660]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset
+[2018.04.12-12.22.46:938][755]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.22.46:974][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.22.46:974][755]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:22:46 PM)
+[2018.04.12-12.22.46:974][755]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.22.46:979][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005198s)
+[2018.04.12-12.22.46:981][755]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.22.46:981][755]LogPlayLevel: PIE: World Init took: (0.001242s)
+[2018.04.12-12.22.46:981][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006761s)
+[2018.04.12-12.22.47:015][755]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.22.47:025][755]LogInit: FAudioDevice initialized.
+[2018.04.12-12.22.47:077][755]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.22.47:080][755]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.22.47
+[2018.04.12-12.22.47:080][755]LogWorld: Bringing up level for play took: 0.002308
+[2018.04.12-12.22.47:092][755]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.867
+[2018.04.12-12.23.55:335][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YBot/animation/Walking" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Walking.uasset" SILENT=true
+[2018.04.12-12.23.55:384][601]LogSavePackage: Save=28.52ms
+[2018.04.12-12.23.55:384][601]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/WalkingE5F912604286A4D691B0D8B877CBE8DD.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Walking.uasset'
+[2018.04.12-12.23.55:389][601]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Walking.uasset
+[2018.04.12-12.23.58:177][767]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.23.58:214][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.23.58:215][767]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:23:58 PM)
+[2018.04.12-12.23.58:215][767]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.23.58:220][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005346s)
+[2018.04.12-12.23.58:221][767]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.23.58:222][767]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2018.04.12-12.23.58:222][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007047s)
+[2018.04.12-12.23.58:257][767]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.23.58:267][767]LogInit: FAudioDevice initialized.
+[2018.04.12-12.23.58:318][767]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.23.58:321][767]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.23.58
+[2018.04.12-12.23.58:322][767]LogWorld: Bringing up level for play took: 0.002485
+[2018.04.12-12.23.58:333][767]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 0.374
+[2018.04.12-12.23.59:374][823]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/YBot/animation/Walking.Walking'
+[2018.04.12-12.23.59:766][846]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/YBot/animation/Walking.Walking'
+[2018.04.12-12.24.00:472][887]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/YBot/animation/Walking.Walking'
+[2018.04.12-12.24.00:909][913]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/YBot/animation/Walking.Walking'
+[2018.04.12-12.24.01:318][938]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/YBot/animation/Walking.Walking'
+[2018.04.12-12.24.38:824][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YBot/animation/Walking" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Walking.uasset" SILENT=true
+[2018.04.12-12.24.38:847][ 12]LogSavePackage: Save=13.68ms
+[2018.04.12-12.24.38:847][ 12]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/WalkingE363FD93464053F5012FA1BE23383E1D.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Walking.uasset'
+[2018.04.12-12.24.38:851][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Walking.uasset
+[2018.04.12-12.24.40:867][158]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.24.40:901][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.24.40:901][158]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:24:40 PM)
+[2018.04.12-12.24.40:901][158]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.24.40:906][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005066s)
+[2018.04.12-12.24.40:907][158]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.24.40:908][158]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2018.04.12-12.24.40:908][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007140s)
+[2018.04.12-12.24.40:945][158]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.24.40:955][158]LogInit: FAudioDevice initialized.
+[2018.04.12-12.24.41:008][158]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.24.41:010][158]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.24.41
+[2018.04.12-12.24.41:011][158]LogWorld: Bringing up level for play took: 0.002392
+[2018.04.12-12.24.41:022][158]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 1.063
+[2018.04.12-12.25.49:657][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YBot/animation/Walking" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Walking.uasset" SILENT=true
+[2018.04.12-12.25.49:681][996]LogSavePackage: Save=14.06ms
+[2018.04.12-12.25.49:681][996]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Walking488C0C1E40357904E70D98A3C1F99389.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Walking.uasset'
+[2018.04.12-12.25.49:686][996]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Walking.uasset
+[2018.04.12-12.25.54:668][164]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.25.54:710][164]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.25.54:746][164]LogMaterial: Missing cached shader map for material pied, compiling. 
+[2018.04.12-12.25.54:808][164]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy pied, compiling. 
+[2018.04.12-12.25.55:540][164]TextureStreamingBuild: Display: Compiling optional shaders took 0.740 seconds.
+[2018.04.12-12.25.57:298][261]LogCascade: Quitting Cascade. FXSystem=0x0000021E218B2520
+[2018.04.12-12.25.58:180][307]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.25.58:214][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.25.58:214][307]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:25:58 PM)
+[2018.04.12-12.25.58:215][307]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.25.58:220][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005623s)
+[2018.04.12-12.25.58:221][307]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.25.58:221][307]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2018.04.12-12.25.58:222][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007110s)
+[2018.04.12-12.25.58:258][307]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.25.58:268][307]LogInit: FAudioDevice initialized.
+[2018.04.12-12.25.58:321][307]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.25.58:324][307]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.25.58
+[2018.04.12-12.25.58:325][307]LogWorld: Bringing up level for play took: 0.002576
+[2018.04.12-12.25.58:337][307]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 0.378
+[2018.04.12-12.26.30:332][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YBot/animation/Walking" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Walking.uasset" SILENT=true
+[2018.04.12-12.26.30:357][159]LogSavePackage: Save=14.43ms
+[2018.04.12-12.26.30:357][159]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Walking0E921FDB43F19C1AC7BAA08735E38156.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Walking.uasset'
+[2018.04.12-12.26.30:361][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Walking.uasset
+[2018.04.12-12.26.32:773][326]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.26.32:807][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.26.32:808][326]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:26:32 PM)
+[2018.04.12-12.26.32:808][326]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.26.32:814][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006221s)
+[2018.04.12-12.26.32:815][326]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.26.32:815][326]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2018.04.12-12.26.32:816][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007957s)
+[2018.04.12-12.26.32:849][326]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.26.32:859][326]LogInit: FAudioDevice initialized.
+[2018.04.12-12.26.32:911][326]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.26.32:914][326]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.26.32
+[2018.04.12-12.26.32:915][326]LogWorld: Bringing up level for play took: 0.002187
+[2018.04.12-12.26.32:926][326]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 0.967
+[2018.04.12-12.26.42:973][893]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.26.43:006][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.26.43:006][893]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:26:43 PM)
+[2018.04.12-12.26.43:006][893]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.26.43:012][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005905s)
+[2018.04.12-12.26.43:013][893]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.26.43:014][893]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2018.04.12-12.26.43:014][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007309s)
+[2018.04.12-12.26.43:048][893]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.26.43:057][893]LogInit: FAudioDevice initialized.
+[2018.04.12-12.26.43:110][893]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.26.43:113][893]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.26.43
+[2018.04.12-12.26.43:113][893]LogWorld: Bringing up level for play took: 0.002450
+[2018.04.12-12.26.43:124][893]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.835
+[2018.04.12-12.28.13:818][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YBot/animation/Running" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset" SILENT=true
+[2018.04.12-12.28.13:850][983]LogSavePackage: Save=14.54ms
+[2018.04.12-12.28.13:850][983]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Running9BA42B85441EDFEBE098898373587BBA.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset'
+[2018.04.12-12.28.13:854][983]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running.uasset
+[2018.04.12-12.28.17:121][161]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.28.17:157][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.28.17:157][161]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:28:17 PM)
+[2018.04.12-12.28.17:157][161]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.28.17:163][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005332s)
+[2018.04.12-12.28.17:164][161]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.28.17:164][161]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2018.04.12-12.28.17:164][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006835s)
+[2018.04.12-12.28.17:202][161]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.28.17:213][161]LogInit: FAudioDevice initialized.
+[2018.04.12-12.28.17:266][161]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.28.17:269][161]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.28.17
+[2018.04.12-12.28.17:270][161]LogWorld: Bringing up level for play took: 0.002518
+[2018.04.12-12.28.17:281][161]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.678
+[2018.04.12-12.28.48:161][991]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.28.48:204][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.28.48:204][991]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:28:48 PM)
+[2018.04.12-12.28.48:204][991]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.28.48:210][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005317s)
+[2018.04.12-12.28.48:211][991]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.28.48:211][991]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2018.04.12-12.28.48:211][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006836s)
+[2018.04.12-12.28.48:244][991]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.28.48:254][991]LogInit: FAudioDevice initialized.
+[2018.04.12-12.28.48:306][991]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.28.48:309][991]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.28.48
+[2018.04.12-12.28.48:309][991]LogWorld: Bringing up level for play took: 0.002437
+[2018.04.12-12.28.48:321][991]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 0.362
+[2018.04.12-12.29.25:630][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_1.DebugSkelMeshComponent_12) Already registered. Aborting.
+[2018.04.12-12.29.25:697][503]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.Actor_1.DebugSkelMeshComponent_12) - call TermArticulated first.
+[2018.04.12-12.29.26:183][503]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.12-12.30.09:317][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YBot/animation/Running_Backward" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running_Backward.uasset" SILENT=true
+[2018.04.12-12.30.09:366][  7]LogSavePackage: Save=25.90ms
+[2018.04.12-12.30.09:366][  7]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Running_BackwardAA69EE754A74ABBF6973C193C7D75531.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running_Backward.uasset'
+[2018.04.12-12.30.09:370][  7]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running_Backward.uasset
+[2018.04.12-12.30.10:700][ 72]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.30.10:735][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.30.10:736][ 72]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:30:10 PM)
+[2018.04.12-12.30.10:736][ 72]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.30.10:742][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005877s)
+[2018.04.12-12.30.10:743][ 72]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.30.10:743][ 72]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2018.04.12-12.30.10:743][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007563s)
+[2018.04.12-12.30.10:782][ 72]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.30.10:792][ 72]LogInit: FAudioDevice initialized.
+[2018.04.12-12.30.10:846][ 72]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.30.10:849][ 72]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.30.10
+[2018.04.12-12.30.10:849][ 72]LogWorld: Bringing up level for play took: 0.002393
+[2018.04.12-12.30.10:858][ 72]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 0.899
+[2018.04.12-12.30.24:598][804]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.30.24:628][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.30.24:628][804]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:30:24 PM)
+[2018.04.12-12.30.24:628][804]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.30.24:633][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004863s)
+[2018.04.12-12.30.24:634][804]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.30.24:634][804]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2018.04.12-12.30.24:635][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006159s)
+[2018.04.12-12.30.24:666][804]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.30.24:675][804]LogInit: FAudioDevice initialized.
+[2018.04.12-12.30.24:724][804]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.30.24:727][804]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.30.24
+[2018.04.12-12.30.24:727][804]LogWorld: Bringing up level for play took: 0.002252
+[2018.04.12-12.30.24:735][804]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 0.776
+[2018.04.12-12.31.06:271][ 73]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.31.06:302][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.31.06:303][ 73]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:31:06 PM)
+[2018.04.12-12.31.06:303][ 73]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.31.06:308][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004895s)
+[2018.04.12-12.31.06:309][ 73]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.31.06:309][ 73]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2018.04.12-12.31.06:309][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006299s)
+[2018.04.12-12.31.06:343][ 73]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.31.06:352][ 73]LogInit: FAudioDevice initialized.
+[2018.04.12-12.31.06:396][ 73]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.31.06:399][ 73]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.31.06
+[2018.04.12-12.31.06:399][ 73]LogWorld: Bringing up level for play took: 0.002176
+[2018.04.12-12.31.06:408][ 73]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 0.449
+[2018.04.12-12.31.52:577][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YBot/animation/Running_Backward" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running_Backward.uasset" SILENT=true
+[2018.04.12-12.31.52:602][573]LogSavePackage: Save=14.72ms
+[2018.04.12-12.31.52:602][573]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Running_BackwardC3F8F8004A6FAB66A55063B05F9F7F24.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running_Backward.uasset'
+[2018.04.12-12.31.52:607][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Running_Backward.uasset
+[2018.04.12-12.31.54:001][647]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.31.54:032][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.31.54:032][647]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:31:54 PM)
+[2018.04.12-12.31.54:032][647]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.31.54:038][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005254s)
+[2018.04.12-12.31.54:039][647]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.31.54:039][647]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2018.04.12-12.31.54:039][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006951s)
+[2018.04.12-12.31.54:074][647]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.31.54:084][647]LogInit: FAudioDevice initialized.
+[2018.04.12-12.31.54:129][647]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.31.54:132][647]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.31.54
+[2018.04.12-12.31.54:133][647]LogWorld: Bringing up level for play took: 0.002440
+[2018.04.12-12.31.54:141][647]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 0.182
+[2018.04.12-12.32.51:119][773]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.32.51:152][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.32.51:152][773]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:32:51 PM)
+[2018.04.12-12.32.51:153][773]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.32.51:158][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005198s)
+[2018.04.12-12.32.51:159][773]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.32.51:159][773]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2018.04.12-12.32.51:159][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.006543s)
+[2018.04.12-12.32.51:193][773]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.32.51:203][773]LogInit: FAudioDevice initialized.
+[2018.04.12-12.32.51:242][773]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.32.51:245][773]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.32.51
+[2018.04.12-12.32.51:246][773]LogWorld: Bringing up level for play took: 0.002479
+[2018.04.12-12.32.51:253][773]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.706
+[2018.04.12-12.33.01:657][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_2.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.04.12-12.33.01:724][859]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.Actor_2.DebugSkelMeshComponent_17) - call TermArticulated first.
+[2018.04.12-12.33.02:182][859]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.12-12.34.18:163][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YBot/animation/Left_Strafe" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Left_Strafe.uasset" SILENT=true
+[2018.04.12-12.34.18:208][163]LogSavePackage: Save=27.92ms
+[2018.04.12-12.34.18:208][163]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Left_StrafeD109F0BF4816C69E89B12D8CE214A67A.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Left_Strafe.uasset'
+[2018.04.12-12.34.18:213][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Left_Strafe.uasset
+[2018.04.12-12.34.19:396][220]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.34.19:428][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.34.19:428][220]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:34:19 PM)
+[2018.04.12-12.34.19:428][220]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.34.19:434][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005530s)
+[2018.04.12-12.34.19:435][220]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.34.19:435][220]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2018.04.12-12.34.19:435][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007132s)
+[2018.04.12-12.34.19:469][220]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.34.19:479][220]LogInit: FAudioDevice initialized.
+[2018.04.12-12.34.19:532][220]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.34.19:535][220]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.34.19
+[2018.04.12-12.34.19:535][220]LogWorld: Bringing up level for play took: 0.002320
+[2018.04.12-12.34.19:544][220]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.415
+[2018.04.12-12.35.41:995][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YBot/animation/Right_Strafe" FILE="../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Right_Strafe.uasset" SILENT=true
+[2018.04.12-12.35.42:041][760]LogSavePackage: Save=28.14ms
+[2018.04.12-12.35.42:041][760]LogSavePackage: Moving '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Saved/Right_Strafe03201D5846C2A266D748B1BF9B23EC3A.tmp' to '../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Right_Strafe.uasset'
+[2018.04.12-12.35.42:046][760]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arthur/Documents/Unreal Projects/Projet/Content/YBot/animation/Right_Strafe.uasset
+[2018.04.12-12.35.42:952][799]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.12-12.35.42:983][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-12.35.42:984][799]PIE: New page: PIE session: Monde01 (Apr 12, 2018, 4:35:42 PM)
+[2018.04.12-12.35.42:984][799]LogPlayLevel: Creating play world package: /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01
+[2018.04.12-12.35.42:990][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005662s)
+[2018.04.12-12.35.42:991][799]LogAIModule: Creating AISystem for world Monde01
+[2018.04.12-12.35.42:991][799]LogPlayLevel: PIE: World Init took: (0.001325s)
+[2018.04.12-12.35.42:991][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monde_De_Jeu/Monde01/Monde01.Monde01 to /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 (0.007441s)
+[2018.04.12-12.35.43:029][799]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-12.35.43:040][799]LogInit: FAudioDevice initialized.
+[2018.04.12-12.35.43:091][799]LogLoad: Game class is 'GameMode_Bas_Personnage01_C'
+[2018.04.12-12.35.43:094][799]LogWorld: Bringing World /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01.Monde01 up for play (max tick rate 0) at 2018.04.12-14.35.43
+[2018.04.12-12.35.43:094][799]LogWorld: Bringing up level for play took: 0.002524
+[2018.04.12-12.35.43:103][799]PIE: Play in editor start time for /Game/Monde_De_Jeu/Monde01/UEDPIE_0_Monde01 -0.855
